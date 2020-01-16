@@ -1,7 +1,6 @@
-package HomeworksJava;
+package AllHomeworks.HomeworksJava;
 
 import java.util.Random;
-import java.util.Scanner;
 
 public class Ex1 {
     public static Random random = new Random();

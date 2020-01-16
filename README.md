@@ -1,2 +1,2 @@
-# HomeworksJava
+# AllHomeworks.HomeworksJava
 Homeworks and SDA Projects

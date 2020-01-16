@@ -1,4 +1,4 @@
-package HomeworksJava;
+package AllHomeworks.HomeworksJava;
 import java.util.Random;
 public class Ex3 {
     static{
