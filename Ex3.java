@@ -1,8 +1,9 @@
 package HomeworksJava;
-
 import java.util.Random;
-
 public class Ex3 {
+    static{
+        System.out.println("Kenebi: Hello there! \nGrievous: General Kenobi, can you do some math: \nKenobi:");
+    }
     public static Random random = new Random();
     public static int numar1 = random.nextInt(1000+1000)-1000;
     public static int numar2 = random.nextInt(1000+1000)-1000;
